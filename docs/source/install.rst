@@ -36,7 +36,7 @@ Python2 (Deprecated)
 
 NOTE: Pwntools maintainers STRONGLY recommend using Python3 for all future Pwntools-based scripts and projects.
 
-Additionally, due to `pip` dropping support for Python2, a specfic version of `pip` must be installed.
+Additionally, due to `pip` dropping support for Python2, a specific version of `pip` must be installed.
 
 .. code-block:: bash
 
